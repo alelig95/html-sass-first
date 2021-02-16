@@ -1,0 +1,15 @@
+$font-color: #ff6e00;
+
+#container{
+  width: 1200px;
+  margin: 0 auto;
+
+  .title{
+    color: $font-color;
+  }
+
+  .subtitle{
+    color: $font-color;
+  }
+
+}

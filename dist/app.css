@@ -1,0 +1,10 @@
+#container {
+  width: 1200px;
+  margin: 0 auto;
+}
+#container .title {
+  color: #ff6e00;
+}
+#container .subtitle {
+  color: #ff6e00;
+}
